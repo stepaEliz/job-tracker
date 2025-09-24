@@ -2,7 +2,6 @@
 
 **Job Tracker** is a React SPA built with Tailwind CSS that allows users to manage job applications: add, edit, filter, and delete jobs.
 
---
 
 ## 📌 Features
 
@@ -13,7 +12,6 @@
 - Save jobs in Local Storage (includes demo jobs on first load)
 - Responsive modern UI with Tailwind CSS
 
---
 
 ## 🛠 Technologies
 
@@ -23,7 +21,6 @@
 - Local Storage for job data
 - React Toastify (for notifications)
 
---
 
 ## 🚀 Run Locally
 
@@ -47,13 +44,11 @@ npm run dev
 ```
 Open http://localhost:5173 in your browser.
 
---
 
 ## 🌐 Live Demo
 
 [View live demo on Vercel]()
 
---
 
 ## 🖼 Screenshots
 
@@ -62,7 +57,6 @@ Open http://localhost:5173 in your browser.
 ![Edit Job Page](./screenshots/editjob.png)
 ![Job Detail Page](./screenshots/jobdetail.png)
 
---
 
 ## 📝 Notes
 
@@ -72,7 +66,6 @@ Toast notifications appear when a job is added, edited, or deleted.
 
 Filter and search functionality are available on the Jobs page.
 
---
 
 ## 📄 License
 [MIT](https://choosealicense.com/licenses/mit/) © Elizaveta Stepanishina

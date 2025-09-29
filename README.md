@@ -47,7 +47,7 @@ Open http://localhost:5173 in your browser.
 
 ## 🌐 Live Demo
 
-[View live demo on Vercel]()
+[View live demo on Vercel](https://job-tracker-seven-kappa.vercel.app/)
 
 
 ## 🖼 Screenshots
